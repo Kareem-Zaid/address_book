@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:label="address_book"
+        android:label="My Resume"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
